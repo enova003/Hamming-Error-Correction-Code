@@ -17,7 +17,7 @@
    testbench data, and run the code.
 5. An input box will appear, please read the message
     that is displayed on the console at the bottom of the screen. 
-    You MUST enter the number 12 or 8 into the first input box. 
+    You *must* enter the number '12' or '8' into the first input box. 
 6. A second input box will appear, enter a 12-bit word if you entered
     '12' into the first input box; enter a 8-bit word if you 
 	  entered '8' into the first input box.
