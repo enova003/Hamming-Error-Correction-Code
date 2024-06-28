@@ -23,5 +23,3 @@
 	  entered '8' into the first input box.
 7. View your results both on the waveform and the console. 
 8. Restart the simulation to test another value.
-
-## Sample Output
